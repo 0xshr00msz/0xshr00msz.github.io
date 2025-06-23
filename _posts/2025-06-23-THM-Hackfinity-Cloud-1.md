@@ -5,7 +5,7 @@ categories: [Cloud, CTF]
 tags: [TryHackMe, AWS, Offensive]
 author: 0xshr00msz
 image:
-  path: /assets/img/posts/2025-06-23-THM-Hackfinity-Cloud-1/image1.png
+  path: /assets/img/posts/2025-06-23-THM-Hackfinity-Cloud-1/hackfinity.png
 ---
 
 ## Cloud Sanity Check
