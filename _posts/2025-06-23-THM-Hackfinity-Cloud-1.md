@@ -1,9 +1,11 @@
 ---
 title: TryHackMe — Hackfinity Cloud Challenge 1 Writeup
-date: 2023-06-01 20:14 +0300
+date: 2025-06-23 20:14
 categories: [Cloud, CTF]
 tags: [TryHackMe, AWS, Offensive]
 author: 0xshr00msz
+image:
+  path: /assets/img/posts/2025-06-23-THM-Hackfinity-Cloud-1/image1.png
 ---
 
 ## Cloud Sanity Check
