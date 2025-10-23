@@ -1,6 +1,6 @@
 ---
 title: Building Cowfessions - A Serverless Web Application
-date: 2026-10-23 00:00
+date: 2025-10-23 00:00
 categories: [Cloud, AWS, Web Development]
 tags: [React, AWS, AWS Lambda, DynamoDB, Python]
 author: AcidBurn
