@@ -5,7 +5,7 @@ categories: [Cloud, AWS, Web Development]
 tags: [React, AWS, AWS Lambda, DynamoDB, Python]
 author: AcidBurn
 image:
-  path: /assets/img/posts/2026-10-23-Cowfessions-Serverless/cowfessions.png
+  path: /assets/img/posts/2025-10-23-Cowfessions-Serverless/cowfessions.png
 ---
 
 Last year, I had the initial idea for **Cowfessions**, an anonymous confession platform for UP Mindanao students. This October, I embarked on an exciting coding adventure to bring that concept to life. What started as a simple idea in March 2025 has now evolved into a full-stack web application that showcases modern cloud architecture and serverless technologies. It's currently deployed for testing and, honestly, just for fun.
